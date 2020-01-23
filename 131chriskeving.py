@@ -208,7 +208,7 @@ def change_position ():
 
 def increase_time():
     global timer
-    timer += 1000
+    timer += 7
 
 #===================keypresses===================
 
